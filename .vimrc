@@ -1,4 +1,6 @@
 syntax on
+set ruler
+set number
 filetype plugin indent on
 " show existing tab with 4 spaces width
 set tabstop=4
